@@ -1,0 +1,2 @@
+transformers 
+summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
